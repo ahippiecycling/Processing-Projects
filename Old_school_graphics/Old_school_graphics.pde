@@ -2,7 +2,7 @@ float t, lines, a, b;
 
 void setup() {
   smooth(100);
-  size(500, 500);
+  size(1080, 720);
   background(163, 163, 194);
 }
 
